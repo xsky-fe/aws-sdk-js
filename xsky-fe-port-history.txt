@@ -1,1 +1,5 @@
 XSKY FE Port History
+
+2020-10-21
+branch: fix/multipart-upload-resume
+With Node.js, make sure multipart upload can be resumed after user abort it.
